@@ -1,11 +1,12 @@
 [general]
 name=Flurstueckssuche NRW
-description=Finden Sie Flurstuecke in NRW anhand ihrer Katasterbezeichnung
-about=About this minimal plugin
-version=0.0.1
 qgisMinimumVersion=3.0
+description=Finden Sie Flurstuecke in NRW anhand ihrer Katasterbezeichnung
+about=Das Plugin Flurstueckssuche NRW nutzt den INSPIRE-Dienst von Geobasis NRW um eine Flurstueckssuche durchzuführen. Die Sucheingabe erfolgt als Kurzformat (xxxx-xxx-xxxxx) und setzt sich aus der Germarkungsnummer (vierstellige), der Flurnummer (max. dreistellig) und der Flurstuecksnummer (max. fuenfstellig) zusammen, führende Nullen entfallen dabei. Dienst: https://www.wfs.nrw.de/geobasis/wfs_nw_inspire-flurstuecke_alkis?
+version=0.0.1
 author=Magnus Wulf
 email=info@wulf-Geoinformatki.de
+repository=https://github.com/seewolf135/flurstueckssuche-NRW
 homepage=https://www.wulf-geoinformatik.de
 tags=ALKIS, NRW, Flurstueckskenzeichen, Suche
 category=Web
