@@ -1,0 +1,11 @@
+[general]
+name=Flurstueckssuche NRW
+description=Finden Sie Flurstuecke in NRW anhand ihrer Katasterbezeichnung
+about=About this minimal plugin
+version=0.0.1
+qgisMinimumVersion=3.0
+author=Magnus Wulf
+email=info@wulf-Geoinformatki.de
+homepage=https://www.wulf-geoinformatik.de
+tags=ALKIS, NRW, Flurstueckskenzeichen, Suche
+category=Web
